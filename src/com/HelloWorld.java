@@ -7,7 +7,7 @@ public class HelloWorld {
 		int a = 3;
 		int b = 4;
 		int c = a + b;
-		System.out.println(c)
+		System.out.println(c);
 	}
 
 }
